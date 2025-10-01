@@ -7,10 +7,10 @@ public class CellPhoneApplication {
 
         // values
         myPhone.setSerialNumber(1234567);
-        myPhone.setModel("iPhone X");
+        myPhone.setModel("iPhone 17 Pro");
         myPhone.setCarrier("AT&T");
-        myPhone.setPhoneNumber("800-555-5555");
-        myPhone.setOwner("Dana Wyatt");
+        myPhone.setPhoneNumber("666-999-666");
+        myPhone.setOwner("Godzila Skyline");
 
         // print them
         System.out.println("Serial: " + myPhone.getSerialNumber());
