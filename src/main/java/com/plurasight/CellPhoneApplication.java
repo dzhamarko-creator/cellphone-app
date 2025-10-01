@@ -21,7 +21,7 @@ public class CellPhoneApplication {
     }
 }
 
-    // CellPhone class
+    // CellPhone
 class CellPhone {
     private int serialNumber;
     private String model;
